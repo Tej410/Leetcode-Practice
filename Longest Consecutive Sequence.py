@@ -1,3 +1,4 @@
+#longest consecutive sequence
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if len(nums) == 0:
